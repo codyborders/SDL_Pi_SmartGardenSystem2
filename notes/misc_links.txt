@@ -1,0 +1,9 @@
+https://www.one-tab.com/page/oz2YC8LHS8e25oF7d6Y24w
+https://github.com/DataDog/documentation/blob/master/content/en/developers/faq/deploying-the-agent-on-raspberrypi.md | documentation/deploying-the-agent-on-raspberrypi.md at master · DataDog/documentation
+https://osgav.run/post/datadog-rpi-network-process-metrics.html | Datadog on Raspberry Pi: Enabling Network and Process Metrics · osgav
+https://stackoverflow.com/questions/64642122/how-to-send-real-time-sensor-data-to-pc-from-raspberry-pi-zero | python 3.x - How to send real-time sensor data to PC from Raspberry Pi Zero? - Stack Overflow
+https://github.com/codyborders/SDL_Pi_SmartGardenSystem2/blob/master/pclogging.py | SDL_Pi_SmartGardenSystem2/pclogging.py at master · codyborders/SDL_Pi_SmartGardenSystem2
+https://github.com/codyborders/SDL_Pi_SmartGardenSystem2/blob/master/dash_app/moisture_sensors.py | SDL_Pi_SmartGardenSystem2/moisture_sensors.py at master · codyborders/SDL_Pi_SmartGardenSystem2
+https://www.switchdoc.com/wp-content/uploads/2020/07/QuickStartSmartGardenSystem1.2.pdf | QuickStartSmartGardenSystem1.2
+https://www.switchdoc.com/category/tutorials/ | Tutorials Archives - SwitchDoc Labs Blog
+https://www.switchdoc.com/wp-content/uploads/2020/09/SmartGardenSystemAssemblyAndTestManual1.4.pdf | SmartGardenSystemAssemblyAndTestManual1.4
